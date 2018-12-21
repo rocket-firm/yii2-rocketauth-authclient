@@ -2,6 +2,7 @@
   "name": "rocket-firm/yii2-rocketauth-authclient",
   "description": "RocketAuth extension for using via yii2-authclient",
   "type": "yii2-extension",
+  "homepage": "https://github.com/rocket-firm/yii2-rocketauth-authclient",
   "keywords": [
     "rocket",
     "firm",
