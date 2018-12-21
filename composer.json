@@ -1,0 +1,34 @@
+{
+  "name": "rocket-firm/yii2-rocketauth-authclient",
+  "description": "RocketAuth extension for using via yii2-authclient",
+  "type": "yii2-extension",
+  "keywords": [
+    "rocket",
+    "firm",
+    "rocketfirm",
+    "auth",
+    "oauth2",
+    "yii2",
+    "yii2-authclient"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Altynbek Kazezov",
+      "email": "altynbek.kazezov.97@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "rocketfirm\\authclient\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "yiisoft/yii2-authclient": "^2.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.4"
+  }
+}
